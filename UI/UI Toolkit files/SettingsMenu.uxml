@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/UI%20Toolkit%20files/SettingStyles.uss?fileID=7433441132597879392&amp;guid=5c26be22c2de5684986b78e4ff6acb18&amp;type=3#SettingStyles" />
+    <ui:VisualElement name="root" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="p1root" class="playerRoot" />
+        <ui:VisualElement name="p2root" class="playerRoot" />
+    </ui:VisualElement>
+</ui:UXML>
